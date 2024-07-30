@@ -1,16 +1,15 @@
 ## Hi there 👋
-
-<!--
-**RafaelBA4k/RafaelBA4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Eai Gente Beleza?🤙
+ - Estudo no Brasil⛱☀
+ _______________________________
+(|             / \             |)
+(|           /     \           |)
+(|          |   O   |          |)
+(|           \     /           |)
+(|             \ /             |)
+(|_____________________________|)
+                      
+ - Estou usando o Alura para estudos
+ - Planejo evoluir na lnguagem de Javascript
+  
+![](https://media.tenor.com/GUux8j2q684AAAAM/power-rangers-blue-ranger.gif)
