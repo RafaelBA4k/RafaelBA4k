@@ -6,4 +6,5 @@
 
  - Planejo evoluir na lnguagem de Javascript
   
-![](https://i.pinimg.com/originals/32/79/46/3279462667fb3498a6aa144e7cdea2ae.gif)
+![](https://pa1.aminoapps.com/6585/7ae40f207b11f1d6d3d7e9a985abc96a7d7ebe25_hq.gif)
+![](https://media.tenor.com/5vj4vN3mDI0AAAAj/super-mario-banana.gif)
